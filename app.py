@@ -16,7 +16,7 @@ PAGE_TITLE = "Digital CV |  Muhammad Muizz"
 PAGE_ICON = ":wave:"
 NAME = "Muhammad Muizz"
 DESCRIPTION = """
-Junior Progamming ruby on rails sinatra and Python Flask 
+Junior programming ruby on rails sinatra and Python Flask 
 """
 EMAIL = "muhammadmuizz8@gmail.com"
 SOCIAL_MEDIA = {
